@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamaALhelwani
 - 👀 I’m interested in microcontroller and microprocessor
-- 🌱 I’m currently learning c/c++
+- 🌱 I’m working Freelancer
 - 📫 How to reach me ???????
 
 
